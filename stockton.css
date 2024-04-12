@@ -41,27 +41,23 @@ background-color: #2CB13F;
 
 .gallery
 {
-	padding-right:125px;
-	margin: 2px;
-	
-	width: 450px;
+	padding-right:15px;
+	margin: 1px;
+	width: 250px;
 }
 .gallery:hover
 {
-	border: 5px solid#3FAF18;
+	border: 3px solid#2CB13F;
 }
 .gallery img
 {
 	border: 5px solid #23562F;
 	align-items: center;
-	width: 100%;
-	margin-left: 20%;
+	width: 30%;
+	margin-left: 60%;
 	height: auto;
 }
-.desc{
-	padding: 10px;
-	text-align: center;
-}
+
 .gallery{
 	display: flex;
 	justify-content: center;
@@ -72,8 +68,17 @@ body{
 	background-size: cover;
 	background-position: center;
 }
+.home{
+	margin-left:50%;
+}
 
 .title{
 	font-family:cursive;
 	
+}
+footer {
+  background-color: #2CB13F;
+  padding: 10px;
+  text-align: center;
+  color: white;
 }
