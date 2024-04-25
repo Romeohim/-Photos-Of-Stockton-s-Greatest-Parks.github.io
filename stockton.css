@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Fleur+De+Leah&family=Inria+Sans&display=swap");
+
+
+
+.topnav
+{
+	margin-bottom: 100px;
+}
+
+
+
+.links a 
+{
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+
+.links a:hover {
+  color: white;
+  background-color: #23562F; 
+}
+
+
+.text
+{
+	width: 1000px;
+	Margin-left: 20%;
+}
+
+
+.tittle
+{
+	font-size: 2.5em;
+	color: #23562F;
+	font-family: 'Fleur De Leah', cursive;
+	line-spacing: 35px;
+
+}
+
+
+.ex
+{
+	width: 1000px;
+	margin-left: 25%;
+	margin-top: 3%;
+}
+
+.container
+{
+	display: flex;	
+	margin-left: 10%;
+}
+
+.gallery
+{
+	padding:15px;
+}
+.gallery:hover
+{
+	border: 3px solid #2CB13F;
+	padding: 5px;
+}
+.gallery img
+{
+	border: 5px solid #23562F;
+	margin-left: 5%;
+}
+
+.gallery{
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+body
+{
+	background-image:url;
+	background-size: cover;
+	background-position: center;
+}
+.home{
+	margin-left: -10%;
+}
+
+
+.socials
+{
+	color: white;
+	height: 100px;
+	padding: 15px;
+	background-color: #23562F;
+}
+
+.socials a
+{
+	font-family: 'Fleur De Leah', cursive;
+	color: white;
+	text-decoration: underline;
+}
+
+.socials a:hover
+{
+	color: #003B00;
+	text-decoration: none;
+}
